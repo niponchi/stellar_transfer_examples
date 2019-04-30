@@ -1,0 +1,18 @@
+{
+  "name": "stellar_transfer_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex1_queue.js",
+  "scripts": {
+    "ex1": "node ex1_queue",
+    "ex2": "node ex2_batch",
+    "ex3": "node ex3_des_as_source",
+    "ex4": "node ex4_pool"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "stellar-sdk": "^0.15.3"
+  }
+}
